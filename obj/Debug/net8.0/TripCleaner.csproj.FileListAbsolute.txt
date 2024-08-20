@@ -1,0 +1,14 @@
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\bin\Debug\net8.0\TripCleaner.exe
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\bin\Debug\net8.0\TripCleaner.deps.json
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\bin\Debug\net8.0\TripCleaner.runtimeconfig.json
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\bin\Debug\net8.0\TripCleaner.dll
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\bin\Debug\net8.0\TripCleaner.pdb
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\obj\Debug\net8.0\TripCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\obj\Debug\net8.0\TripCleaner.AssemblyInfoInputs.cache
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\obj\Debug\net8.0\TripCleaner.AssemblyInfo.cs
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\obj\Debug\net8.0\TripCleaner.csproj.CoreCompileInputs.cache
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\obj\Debug\net8.0\TripCleaner.dll
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\obj\Debug\net8.0\refint\TripCleaner.dll
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\obj\Debug\net8.0\TripCleaner.pdb
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\obj\Debug\net8.0\TripCleaner.genruntimeconfig.cache
+C:\Users\fevxh\source\repos\TripCleaner\TripCleaner\obj\Debug\net8.0\ref\TripCleaner.dll
