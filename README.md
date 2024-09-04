@@ -1,2 +1,2 @@
-crack by JournalTrace & 1WantToFreak
+crack by JournalTrace & Librry
 dsc.gg/ourgodz
